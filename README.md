@@ -5,4 +5,4 @@ simple script to show aws ec2 instances
 
 Example:
 
-`ListAWSInstances.sh default`
+`ListAWSInstances default`
