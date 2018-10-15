@@ -1,7 +1,7 @@
 # ListAWSInstances
 simple script to show aws ec2 instances
 # Usage
-`ListAWSInstances.sh PROFILE_NAME
+`ListAWSInstances PROFILE_NAME
 
 Example:
 
